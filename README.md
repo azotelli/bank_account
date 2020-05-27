@@ -1,4 +1,4 @@
-# bank_account_
+# bank_account
 C++: Using Inheritance and Polymorphism to create different types of Bank Accounts
 
 This application creates different types of bank account: chequing, savings, and trust accounts.
