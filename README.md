@@ -1,7 +1,7 @@
 # bank_account_
 C++: Using Inheritance and Polymorphism to create different types of Bank Accounts
 
-This application will create different types of bank account: chequing, saving, and trust account.
+This application creates different types of bank account: chequing, savings, and trust accounts.
 It has a base class "account" from which the other ones derive from.
 
 Chequing Account: has a name, a balance and a fee of $1.50 per withdrawal transaction. Every withdrawal transaction will be assessed this flat fee.
